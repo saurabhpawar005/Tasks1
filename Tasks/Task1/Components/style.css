@@ -1,0 +1,13 @@
+.cards {
+    display: flex;
+    flex-direction: column;
+    width: 33.33%;
+}
+
+.cardbody{
+    justify-content: center;
+}
+.cardimg{
+    max-width:100%;
+
+}
